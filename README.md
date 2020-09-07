@@ -1,5 +1,13 @@
 <h1>"#ATN Bangla Project#"</h1>
 
+*<h3>Module wise gif :</h3>*
+
+
+Menu Name                  |  Animation                                                       |Menu Name                     |  Animation                                                    |
+---------------------------|------------------------------------------------------------------|------------------------------|-----------------------------------------------------------| 
+Login                      |  <img src="./gif/login.gif" width="250" height="355">            |Application Tour              |  <img src="./gif/app.gif" width="250" height="355"> |
+
+
 *<h3>Mobile Application User Interface :</h3>*
 
 
